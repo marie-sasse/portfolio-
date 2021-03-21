@@ -917,6 +917,11 @@ a:hover {
   float: right;
 }
 
+.card-blog:hover {
+  box-shadow: 0 1.5rem 2.8rem rgba(0, 0, 0, 0.15),
+    0 1rem 1rem rgba(0, 0, 0, 0.15);
+  transform: translate(0, -0.5rem) scale(1.01);
+}
 /*======================================
 //--//-->   BLOG-SINGLE
 ======================================*/
